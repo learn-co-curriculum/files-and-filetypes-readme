@@ -126,7 +126,7 @@ binary-files:
 
 ## Conclusion
 
-In this lab we have taken some time to get to know files, things in which
+In this lesson we have taken some time to get to know files, things in which
 computers store data that needs to last a while or which their users might want
 to refer to again later. We've noted a primary distinction between (plain-)
 text files and binary files and noted that many files also bear an extension
