@@ -5,11 +5,11 @@
 According to the influential [paper][seven] "The Magical Number Seven, Plus or
 Minus Two," published in 1956 by George A. Miller, the number of objects that
 an average person can hold in _working memory_ is about seven. Recall the last
-time you tried to memorize a phone number, URL, or address for a second as you
-tried to type it in. After you keyed in that information, you probably
-experienced relief because it has been _safely_ used and, 20 minutes later, you
-could not have recalled the number. This information was riskily stored  merely
-in _working memory_.
+time you tried to memorize a phone number, URL, or address "for a second" as
+you tried to type it in. After you keyed in that information, you probably
+experienced relief because it has been _safely_ stored and, 20 minutes later,
+you could not have recalled the number. This information was temporarily, and
+riskily, stored merely in _working memory_.
 
 Sometimes, when doing computation, we need to be able to store our results or
 processes for re-use or review.  Humans preserve temporary information (phone
@@ -46,17 +46,18 @@ deleted them. A file is a thing computers use to store data or processes
 
 In the earliest days of computing, the users of the ancestors of modern
 computers recognized two primary types of files: **text** files and **binary**
-files. Stored data tended to live in **text** files and stored processes, also
-known as "programs" tended to live in executable files written in the
-**binary** language that computers use internally.
+files. Stored data tended to live in **text** files while stored processes,
+also known as "programs" tended to live in executable files written in the
+**binary** language that computers use internally. This created the primary
+division in file types: **text** and **binary**.
 
 ### An Unnecessary Adjective? "Plain"
 
-Perhaps as an unnecessary adjective, programmers put the adjective "plain" in
-front of "text" to emphasize _just how utter plain and human-oriented_ the
-contents were. For this reason, these files are occasionally called
-"[plain text][plaintext]" or "[plaintext][plaintext]" however they are all
-synonyms.
+Perhaps as an unnecessary adjective, computer users put the adjective "plain"
+in front of "text" to emphasize _just how utter plain and human-oriented_ the
+contents were. For this reason, these files are occasionally called "[plain
+text][plaintext]" or "[plaintext][plaintext]." These all refer to the same
+thing, though, files full of things that humans can type on their keyboards.
 
 ### Experiencing File Types
 
@@ -85,21 +86,24 @@ they're unfit to be used to create HTML documents (and indeed, unfit to write
 source code for use by programs like `python` or `ruby`). Technologists write
 their computer-friendly documents in a "text editor" but tend to write business
 documents, letters to grandmothers, and Southern Reach trilogy fan fiction in
-word processors.
+word processors. Text Editor programs differ from Word Processor programs
+because they emit their save files as **text** files.
 
 ## Identify the Function of File Extensions
 
 Many file names have an "extension" that comes after a `.` which suggests what
 type of program works with the file or what kind of data lies inside the file.
-For example `LetterToGrandma.docx` has a *docx* _extension_. The file
-`groceries.txt` has a *txt* extension. The `CarltonDance.gif` file's extension
-of `.gif` suggests an image, possibly animated. When people say they "I went to
-giphy.com to find a GIF" they're really saying: "I used the giphy.com search
-engine to find files that have the `.gif` extension."
+For example `LetterToGrandma.docx` has a *docx* _extension_ which suggests the
+Word word processing program by Microsoft. The file `groceries.txt` has a *txt*
+extension which suggests a plaintext text editor like Notepad or Atom. The
+`CarltonDance.gif` file's extension of `.gif` suggests an image, possibly
+animated. When people say they "I went to giphy.com to find a GIF" they're
+really saying: "I used the giphy.com search engine to find files that have the
+`.gif` extension."
 
 **BUT** be careful. A text file called `groceries.txt` could be renamed
 `groceries.mp3` **but it would still be a text file**. Just because you put a
-Mercedes-Benz medallion on the front of your Toyota does not mean that you're
+Mercedes-Benz medallion on the front of your Toyota _does not mean_ that you're
 driving a Benz. A look at the internals would quickly reveal that the label did
 not match the manufacture.
 
