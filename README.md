@@ -111,9 +111,7 @@ Operating systems use these extensions to help decide what sort of tool ought
 be used to read and process the file. Some operating systems, like MacOS, even
 _hide_ the extension on the theory that that most "no longer care about it."
 This is probably a reasonable conclusion, but as technologists we're going to
-frequently dig below the "end-user" layer. Since the LearnIDE environment we're
-going to be working on is based on Linux, we _will_ see the extensions on
-files.
+frequently dig below the "end-user" layer. In LearnIDE we _will_ see extensions.
 
 Here's a table to help train your instincts in seeing text- files versus
 binary-files:
