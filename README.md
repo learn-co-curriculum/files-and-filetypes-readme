@@ -7,7 +7,7 @@ Minus Two," published in 1956 by George A. Miller, the number of objects that
 an average person can hold in _working memory_ is about seven. Recall the last
 time you tried to memorize a phone number, URL, or address "for a second" as
 you tried to type it in. After you keyed in that information, you probably
-experienced relief because it has been _safely_ stored and, 20 minutes later,
+experienced relief because it had been _safely_ stored and, 20 minutes later,
 you could not have recalled the number. This information was temporarily, and
 riskily, stored merely in _working memory_.
 
