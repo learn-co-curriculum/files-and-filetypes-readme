@@ -54,7 +54,7 @@ division in file types: **text** and **binary**.
 ### An Unnecessary Adjective? "Plain"
 
 Perhaps as an unnecessary adjective, computer users put the adjective "plain"
-in front of "text" to emphasize _just how utter plain and human-oriented_ the
+in front of "text" to emphasize _just how utterly plain and human-oriented_ the
 contents were. For this reason, these files are occasionally called "[plain
 text][plaintext]" or "[plaintext][plaintext]." These all refer to the same
 thing, though, files full of things that humans can type on their keyboards.
