@@ -13,12 +13,12 @@ Computers also have a limited working memory. Just like us, they keep things in
 working memory that they're, well, working with.
 
 When computers or people run out of space, they write down information stored
-in _working memory_. Humans use a napkins, Post-It Notes or the back of their
+in _working memory_. Humans use a napkin, Post-It Notes or the back of their
 hands. Computers use _files_.  The stuff computers write into their files fits
 into two main categories:
 
-1.  stuff for humans to read ("text files")
-2.  stuff for computers to read ("binary files")
+1.  stuff humans could read ("text files")
+2.  stuff only computers can read ("binary files")
 
 Developers create _lots_ of files. This README will help us all get on the same
 page with how to talk about them.
@@ -41,7 +41,7 @@ Computers think in electricity.
 Whoa.
 
 Computers' thoughts are usually shown as 1's and 0's. This is called _binary
-code_.  When computers write things down, they write them down in files in
+code_.  When computers write things down, they often write them down in files in
 _their_ language, _binary_.  These files are _binary files_.
 
 Things in _binary_ files are images, music, and software programs. We create
@@ -53,7 +53,7 @@ language, _text_. These files are _text files_.
 
 Things in _text_ files are HTML, letters to grandma, a list of student
 grades for a gradebook program, directions to Carnegie Hall, etc.  We create
-these _text_ files with _text editors_ like LearnIDE's editor, Atom, Sublime
+these _text_ files with _text editors_ like the LearnIDE editor, Atom, Sublime
 Text, vim, or emacs.
 
 > **ASIDE:** You might hear some developers call text files
@@ -86,7 +86,7 @@ example, `LetterToGrandma.docx` has a *docx* _extension_ which _hints_ to the
 OS that it should open the file with the Word word processing program by
 Microsoft. The file `job_offer.pdf` _hints_ to the OS that it could open the
 file with either Acrobat or MacOSX's Preview application. When the OS finds
-many good options, it will ask for the user's help.
+many good options, it will ask for the user's help in selecting the right program.
 
 Changing an extension **does not** change the type of file you have.  A text
 file called `groceries.txt` could be renamed `groceries.mp3` **but it would
@@ -94,10 +94,10 @@ still be a text file**. A Toyota with a BMW medallion does not suddenly become
 a BMW. Our `groceries` did not suddenly become music because we changed the
 extension.
 
-Some operating systems, like MacOSX _hide_ the file extension.  They reckon
-that most users "no longer care about it." This is a good idea.  Since we're
+Some operating systems, like MacOSX _hide_ the file extension by default.  They reckon
+that most users "no longer care about it." Since we're
 developers, though, we will frequently dig below the "end-user" layer. When in
-a terminal, we will see extensions.
+a terminal, we will see full file names - including extensions.
 
 Here's a table to help train your instincts in seeing text- files versus
 binary-files:
