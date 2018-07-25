@@ -12,8 +12,8 @@ reliable!
 Computers also have a limited working memory. Just like us, they keep things in
 working memory that they're, well, working with.
 
-When computers or people run out of space, they write down information stored
-in _working memory_. Humans use a napkin, Post-It Notes or the back of their
+When computers or people run out of space, we write down information stored
+in our _working memory_. Humans use a napkin, Post-It Notes or the back of their
 hands. Computers use _files_.  The stuff computers write into their files fits
 into two main categories:
 
