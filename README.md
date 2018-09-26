@@ -13,9 +13,9 @@ Computers also have a limited working memory. Just like us, they keep things in
 working memory that they're, well, working with.
 
 When computers or people run out of space, they write down information stored
-in _working memory_. Humans sometimes use a napkin, Post-It Notes or the back
-of their hands. Computers use _files_.  The information computers write into
-their files fits into two main categories:
+in their _working memory_. Humans sometimes use a napkin, Post-It Notes or the back of their
+hands. Computers use _files_.  The stuff computers write into their files fits
+into two main categories:
 
 1.  information humans can read ("text files")
 2.  information only computers can read ("binary files")
