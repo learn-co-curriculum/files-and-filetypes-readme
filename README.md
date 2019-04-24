@@ -44,7 +44,7 @@ Computers' thoughts are usually shown as 1's and 0's. This is called _binary
 code_.  When computers write things down, they often write them down in files in
 _their_ language, _binary_.  These files are _binary files_.
 
-Tyoes of _binary_ files are images, music, and software programs. We can create
+Types of _binary_ files are images, music, and software programs. We can create
 these files with Adobe Photoshop, the C programming language, or Ableton.
 
 Nobody is exactly sure how humans think. That's a question for science or
