@@ -106,7 +106,7 @@ binary-files:
 |-----|---------------------|-----|------|
 | `beethoven_09_04_.mp3` | Binary | `.mp3` | Recording of the "Ode to Joy"|
 | `CarletonDance.gif` | Binary | `.gif` | Image of a dancer from "The Fresh Prince of Bel-Air"|
-| `fibonacci_printer.py` | Text | `.txt`| A Python program written in text; executable by the `python` _binary_ file |
+| `fibonacci_printer.py` | Text | `.py`| A Python program written in text; executable by the `python` _binary_ file |
 | `index.html` | Text | `.html`| An HTML File designed for sharing information on the web|
 | `LetterToGrandma.docx` | Binary | `.docx` | A binary file for Microsoft Word |
 | `minaswan.rb` | Text | `.rb` | A Ruby program file written in text; executable by the `ruby` _binary_ file |
